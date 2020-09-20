@@ -1,5 +1,5 @@
 {
-    "name": "rinvex/laravel-support",
+    "name": "rinvex72/laravel-support",
     "description": "Rinvex common support helpers, contracts, and traits required by various Rinvex packages. Validator functionality, and basic controller included out-of-the-box.",
     "type": "library",
     "keywords": [
@@ -39,7 +39,7 @@
         }
     ],
     "require": {
-        "php": "^7.4.0",
+        "php": "^7.2.0",
         "felixkiss/uniquewith-validator": "^3.4.0",
         "illuminate/auth": "^7.0.0",
         "illuminate/bus": "^7.0.0",
